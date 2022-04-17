@@ -1,0 +1,13 @@
+# MYSQL settings:
+# DB_USER="sperma"
+# DB_PASS="asdQWE123!@#"
+# DB_HOST="165.22.242.64"
+# DB_PORT="3306"
+# DB_NAME="db_keluaranmovie"
+# DB_DRIVER="mysql"
+
+# REDIS settings:
+# DB_REDIS_HOST="174.138.18.67:6379"
+# DB_REDIS_PASSWORD=""
+# DB_REDIS_NAME="1"
+
